@@ -1,0 +1,20 @@
+body{
+   text-align: center;
+}
+.btn{
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: white;
+  background-color: red;
+}
+h1{
+  color: #8c008c;
+  font-family: 標楷體;
+}
+h2{
+  color: black;
+  font-family: 標楷體;
+}
